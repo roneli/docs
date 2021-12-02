@@ -8,7 +8,7 @@ TimescaleDB is an open-source relational database for time-series data. It uses 
 
 ## Setup
 
-Make sure you read our [Getting Started]("./docs/getting-started.mdx") section first
+Make sure you read our [Getting Started]("getting-started.mdx") section first
 
 ### Installation
 
