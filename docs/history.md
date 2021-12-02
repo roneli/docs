@@ -55,3 +55,4 @@ SELECT * FROM history.aws_iam_users
 -- Will select the latest fetch of aws_iam_users
 SELECT * from aws_iam_users
 ```
+
