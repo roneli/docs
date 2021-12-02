@@ -115,6 +115,11 @@ module.exports = {
     },
     {
       type: 'doc',
+      label: 'History',
+      id: 'history',
+    },
+    {
+      type: 'doc',
       label: 'Best Practices',
       id: 'best-practices',
     },
